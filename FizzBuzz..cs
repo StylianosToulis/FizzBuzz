@@ -13,7 +13,7 @@ namespace Fizzbuzz
                     Console.WriteLine("Fizzbuzz");
                 
                 }
-
+               //checks if its a multiple of 3
                 else if(i % 3 == 0)
                 {
                     Console.WriteLine("Fizz");
