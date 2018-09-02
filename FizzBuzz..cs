@@ -6,6 +6,8 @@ namespace Fizzbuzz
     {
         static void Main(string[] args)
         {
+            
+            //Checks if the number is divisilbe by both of them
             for(int i = 1; i<=100;i++)
             {
                 if(i%3==0 && i%5==0)
